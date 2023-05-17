@@ -27,7 +27,7 @@ Note: The script uses a pre-trained YOLO model provided in the "models/yolov8n" 
 
 ## Example
 
-![sample](https://github.com/sajiniho07/second_derivative/blob/master/res/TrafficVehicleCounter.gif)
+![sample](https://github.com/sajiniho07/TrafficVehicelCounter/blob/master/res/TrafficVehicleCounter.gif)
 
 ## License 
 
